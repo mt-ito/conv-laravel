@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "repositories": [{
         "type": "vcs",
-        "url": "https://github.com/nodokaha/conv.git"
+        "url": "https://github.com/mt-ito/conv.git"
     }],
     "require": {
         "nodokaha/conv": "dev-master",
