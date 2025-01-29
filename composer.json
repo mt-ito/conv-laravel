@@ -14,7 +14,7 @@
         "url": "https://github.com/mt-ito/conv.git"
     }],
     "require": {
-        "nodokaha/conv": "dev-master",
+        "mt-ito/conv": "dev-master",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0",
         "illuminate/console": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0"
     },
