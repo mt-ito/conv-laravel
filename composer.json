@@ -1,17 +1,21 @@
 {
-    "name": "howyi/conv-laravel",
+    "name": "nodokaha/conv-laravel",
     "description": "MySQL migration query auto generate on Laravel/Lumen",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name":  "Hayashi Takuya",
-            "email": "howyi.lq@gmail.com"
+            "name":  "Itou Motoaki",
+            "email": "mt-ito@infiniteloop.co.jp"
         }
     ],
     "minimum-stability": "stable",
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/nodokaha/conv.git"
+    }],
     "require": {
-        "howyi/conv": "^2.0",
+        "nodokaha/conv": "dev-master",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0",
         "illuminate/console": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0"
     },
