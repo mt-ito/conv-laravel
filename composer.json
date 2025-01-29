@@ -9,7 +9,6 @@
             "email": "mt-ito@infiniteloop.co.jp"
         }
     ],
-    "minimum-stability": "stable",
     "repositories": [{
         "type": "vcs",
         "url": "https://github.com/mt-ito/conv.git"
